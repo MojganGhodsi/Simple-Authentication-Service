@@ -19,11 +19,11 @@ Services are Restful.
 After cloning the project, you can build a jar file to use or you can use embeded tomcat which spring boot provides and use 
 your system as a server. 
 
-sthe context path is :
+the context path is :
 
 /authentication-service/api
 
-and you can access on 8080 port on the server, for example:
+and you can access it on 8080 port, for example:
 
 localhost:8080/authentication-service/api
 
