@@ -23,7 +23,7 @@ sthe context path is :
 
 /authentication-service/api
 
-and you can access on 8080 port on the server, etc:
+and you can access on 8080 port on the server, for example:
 
 localhost:8080/authentication-service/api
 
